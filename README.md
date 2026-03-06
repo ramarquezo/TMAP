@@ -248,6 +248,6 @@ If you use this pipeline, please cite:
 ## Author
 
 Developed for the analysis of AP-1-mediated chromatin remodeling in cancer cells across experimental conditions.  
-Ricaurte Alejandro Marquez-Ortiz — University of Colorado Anschutz
-Cittelly Lab
+Ricaurte Alejandro Marquez-Ortiz — University of Colorado Anschutz  
+Cittelly Lab  
 March 2026
