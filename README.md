@@ -250,4 +250,5 @@ If you use this pipeline, please cite:
 Developed for the analysis of AP-1-mediated chromatin remodeling in cancer cells across experimental conditions.  
 Ricaurte Alejandro Marquez-Ortiz — University of Colorado Anschutz  
 Cittelly Lab  
-March 2026
+March 2026  
+Marquez-Ortiz, R. A. (2026). TMAP — Transcription factor Motif Accessibility Pipeline (Version 1.0.0) [Computer software]. https://github.com/ramarquezo/TMAP
