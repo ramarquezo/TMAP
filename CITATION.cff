@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: "If you use TMAP in your research, please cite it as below."
+type: software
+title: "TMAP — Transcription factor Motif Accessibility Pipeline"
+abstract: "A computational pipeline to analyze chromatin accessibility at 
+  transcription factor binding motifs within promoter regions of target genes, 
+  using ATAC-seq data from nf-core pipeline output. Although originally developed 
+  for AP-1 (FOS::JUN) motif analysis, TMAP is fully adaptable to any transcription 
+  factor available in the JASPAR database."
+authors:
+  - family-names: "Marquez-Ortiz"
+    given-names: "Ricaurte Alejandro"
+    orcid: "https://orcid.org/0000-0002-7188-6158"
+version: 1.0.0
+date-released: "2026-03-05"
+license: MIT
+repository-code: "https://github.com/ramarquezo/TMAP"
+keywords:
+  - ATAC-seq
+  - chromatin accessibility
+  - transcription factor
+  - motif analysis
+  - AP-1
+  - FOS
+  - JUN
+  - bioinformatics
+  - epigenomics
+  - nf-core
+references:
+  - type: software
+    title: "MEME Suite"
+    authors:
+      - family-names: "Grant"
+        given-names: "Charles E."
+    year: 2011
+    journal: "Bioinformatics"
+    doi: "10.1093/bioinformatics/btr330"
+  - type: software
+    title: "deepTools"
+    authors:
+      - family-names: "Ramírez"
+        given-names: "Fidel"
+    year: 2016
+    journal: "Nucleic Acids Research"
+    doi: "10.1093/nar/gkw257"
+  - type: software
+    title: "BEDTools"
+    authors:
+      - family-names: "Quinlan"
+        given-names: "Aaron R."
+    year: 2010
+    journal: "Bioinformatics"
+    doi: "10.1093/bioinformatics/btq033"
+  - type: software
+    title: "JASPAR 2024"
+    authors:
+      - family-names: "Castro-Mondragon"
+        given-names: "Jaime A."
+    year: 2022
+    journal: "Nucleic Acids Research"
+    doi: "10.1093/nar/gkab1113"
+  - type: software
+    title: "nf-core/atacseq"
+    authors:
+      - family-names: "Ewels"
+        given-names: "Philip A."
+    year: 2020
+    journal: "Nature Biotechnology"
+    doi: "10.1038/s41587-020-0439-x"
